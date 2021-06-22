@@ -1,6 +1,6 @@
 # Device Driver Programming using C
 
-The implementation of USB PEND DRIVE device driver theme is to gain the practical knowledge of working of modules and kernels, where we learn how the module is loaded in kernel for the execution of the code.
+The implementation of USB Pendrive device driver theme is to gain the practical knowledge of working of modules and kernels, where we learn how the module is loaded in kernel for the execution of the code.
 
 In this project, we aim to implement support for loadable kernel modules. As mentioned an ideal set of tools in Linux for supporting the kernel module include some additional OS facilities for inserting a module, removing a module and thus stating the currently loaded modules. Some other slightly advanced features include about determining the dependencies among the modules or loading or unloading the kernel modules based on its dependency with the other modules. System calls from user processes. 
 
